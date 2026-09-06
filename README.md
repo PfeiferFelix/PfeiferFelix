@@ -38,13 +38,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PfeiferFelix&layout=compact&theme=tokyonight&hide_border=true" alt="Felix's top languages" />
 </div>
-###
-<h2 align="center">Trophies</h2>
-###
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PfeiferFelix&theme=tokyonight&no-frame=true&row=1&column=6" alt="Felix's GitHub trophies" />
-</div>
-###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PfeiferFelix/PfeiferFelix/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PfeiferFelix/PfeiferFelix/output/pacman-contribution-graph.svg">
