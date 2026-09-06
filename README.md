@@ -21,6 +21,8 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="56" alt="scss logo"  />
   <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="56" alt="figma logo"  />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56" alt="git logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="56" alt="apple logo"  />
@@ -28,17 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="56" alt="github logo"  />
 </div>
 ###
-<h2 align="center">GitHub Stats</h2>
-###
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PfeiferFelix&show_icons=true&theme=tokyonight&hide_border=true" alt="Felix's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PfeiferFelix&theme=tokyonight&hide_border=true" alt="Felix's GitHub streak" />
-</div>
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PfeiferFelix&layout=compact&theme=tokyonight&hide_border=true" alt="Felix's top languages" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PfeiferFelix/PfeiferFelix/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PfeiferFelix/PfeiferFelix/output/pacman-contribution-graph.svg">
