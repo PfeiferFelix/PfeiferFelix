@@ -1,19 +1,11 @@
 <h1 align="center">Hey there, I am Felix 👋</h1>
-
 ###
-
 <h2 align="center">About me</h2>
-
 ###
-
-<p align="center">📚 I am learning software development at the Developer Academy Munich.<br>✨ Creating bugs since 2025</p>
-
+<p align="center">🚀 Passionate frontend web developer, creating robust and scalable web applications, with a keen eye for user experience and performance optimization.<br>✨ Creating bugs since 2025</p>
 ###
-
 <h2 align="center">I code with</h2>
-
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" alt="html5 logo"  />
   <img width="16" />
@@ -29,23 +21,38 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="56" alt="scss logo"  />
   <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="56" alt="figma logo"  />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56" alt="git logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="56" alt="apple logo"  />
-  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="56" alt="github logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="56" alt="apple logo"  />
 </div>
-
 ###
-
+<h2 align="center">GitHub Stats</h2>
+###
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PfeiferFelix&show_icons=true&theme=tokyonight&hide_border=true" alt="Felix's GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PfeiferFelix&theme=tokyonight&hide_border=true" alt="Felix's GitHub streak" />
+</div>
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PfeiferFelix&layout=compact&theme=tokyonight&hide_border=true" alt="Felix's top languages" />
+</div>
+###
+<h2 align="center">Trophies</h2>
+###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PfeiferFelix&theme=tokyonight&no-frame=true&row=1&column=6" alt="Felix's GitHub trophies" />
+</div>
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PfeiferFelix/PfeiferFelix/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PfeiferFelix/PfeiferFelix/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PfeiferFelix/PfeiferFelix/output/pacman-contribution-graph.svg">
 </picture>
-
 ###
-
 <div align="center">
   <a href="https://www.instagram.com/pfeifer_felix/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -57,5 +64,4 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
-
 ###
