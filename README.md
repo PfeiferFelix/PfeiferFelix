@@ -4,11 +4,11 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hey 👋 I am Felix!</h1>
+<h1 data-importer="text" align="center">Hey 👋 I’m Felix!</h1>
 
 ###
 
-<p data-importer="text" align="center">My name is Felix and I'm a passionate frontend developer, from Austria</p>
+<p data-importer="text" align="center">My name is Felix, and I’m a passionate frontend developer from Austria.</p>
 
 ###
 
